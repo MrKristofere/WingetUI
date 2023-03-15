@@ -1,4 +1,4 @@
-Jjjjj---
+---
 name: Issue related to the Chocolatey Package Manager
 about: Create a report to let me know what is happening
 title: "[CHOCO] (Enter your description here)"
